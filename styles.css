@@ -1,0 +1,114 @@
+
+body{
+    margin: 0 0 0 0 ;
+    margin-bottom: 0%;
+  /* padding-top: 50px; */
+  color: #40514E;
+    font-family: 'idim',sans-serif ;
+    text-align: center;
+}
+h1{
+    /* position: absolute; */
+    font-size: 90px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    margin: 100px auto 0 auto;
+    color:  #66BFBF;
+}
+
+h2{
+    /* position: absolute; */
+    font-family:  “Comic Sans MS”, “Comic Sans”, cursive;
+    color:  #66BFBF;
+    font-weight: normal;
+    /* margin-top: 0; */
+}
+
+h3{
+    /* position: absolute; */
+    font-family:  “Comic Sans MS”, “Comic Sans”, cursive;
+    color: #11999E;
+    /* margin-top: 0; */
+}
+a{
+    color: #11999E;
+
+}
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #E4F9F5;
+}
+
+.profile-pic{
+    width: 30%;
+    border-radius: 50%;
+
+}
+.row{
+    width: 7%;
+    border-style: dotted;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    border-bottom-width: 8px;
+    border-color: gray;
+}
+
+.skill-row{
+    width: 50%;
+   margin :100px auto 10px auto;
+   text-align: left;
+  line-height: 2;
+
+}
+.skill{
+    width: 20%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.middle-container{
+     padding: 100px 0 50px;
+}
+a:hover{
+    color: blue;
+}
+.contact-me{
+    margin-bottom: 30px;
+}
+
+.bottom-container{
+
+     padding: 30px 0 20px  ;
+     /* margin-bottom: 0; */
+    background-color: #66BFBF;
+}
+.footer-link{
+  margin: auto 30px 0 30px;
+  text-decoration: none;
+}
+.watermark{
+    color: #EAF6F6;
+    padding-top: 10px ;
+    /* padding-bottom: 30px; */
+}
+.top-cloud{
+    position: absolute;
+    top: 20px;
+    right: 450px;
+}
+.btn{
+    padding: 5px 5px 5px 5px;
+    /* /* border-radius: 5%; */
+    width: 10%;
+     border-radius: 10px;  
+  text-decoration: none;
+  color: white;
+  background-color: aqua;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 300 px;
+    left: 450px;
+}
+
