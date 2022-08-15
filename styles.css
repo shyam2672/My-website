@@ -7,6 +7,11 @@ body{
     font-family: 'idim',sans-serif ;
     text-align: center;
 }
+.summary{
+    width: 50%;
+    margin:auto;
+    line-height: 2;
+}
 h1{
     /* position: absolute; */
     font-size: 90px;
